@@ -19,7 +19,7 @@ body{
     padding:10px;
     }
 #banner{
-    background:("./money-travel.jpg");
+    background:url("./money-travel.jpg");
     width:100%;
     height:85vh;
     object-fit:fill;
