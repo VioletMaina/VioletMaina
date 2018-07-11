@@ -24,10 +24,18 @@ body{
     height:95vh;
     background-size:cover;  
     }
+#banner h1{
+    text-align:center;
+    font-size:60px;
+    }
+#banner p{
+    text-align:center;
+    font-size:50px;
+    }
 h6{
     font-size:20px;
     color: white;
-}   
+    }   
 #about{
     height:-webkit-fill-available;
     }
