@@ -24,17 +24,11 @@ body{
     height:95vh;
     background-size:cover;  
     }
-#banner h1{
-    text-align:center;
-    font-size:60px;
-    margin:0px;
+.header{
+    padding:0px;
+    position:center;
     color:white;
-    }
-#banner p{
-    text-align:center;
-    font-size:50px;
-    color:white;
-    }
+}
 h6{
     font-size:20px;
     color: white;
